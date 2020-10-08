@@ -1,0 +1,5 @@
+# Terraform
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+# terraform.tfvars <--- FIXME: AS PER THE README, YOU SHOULD UNCOMMENT THIS!
